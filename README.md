@@ -4,17 +4,13 @@ This repository contains the project done as a part of CS228: Logic for Computer
 
 ## Problem Statement
 
-There is a popular mobile game in which cars are parked in a large parking and a particular car wants to leave. The cars can move along their lengths only. Certain squares are invalid. The goal of the game is to decide whether a solution exists for a particular given car(whether it can leave the car park successfully). We model it as a Boolean Satisfiability Problem and use a SAT solver to solve the same.
+There are several cars parked in a large parking and a particular car wants to leave. The cars can move along their lengths only. Certain squares are invalid. The goal of the game is to decide whether a solution exists for a particular given car(whether it can leave the car park successfully). We model it as a Boolean Satisfiability Problem and use a SAT solver to solve the same.
 
 ## Resources
 
 [Z3Py Tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)
 
-[Z3PracticeProblemsReference](https://drive.google.com/drive/folders/1n56Nc8T1ti4MNwblXOnDWU1rm3msbk0C?usp=sharing)
-
 ## References
-
-https://ericpony.github.io/z3py-tutorial/guide-examples.htm
 
 https://theory.stanford.edu/~nikolaj/programmingz3.html
 

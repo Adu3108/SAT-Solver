@@ -24,6 +24,31 @@ brew install z3
 
 Other users can also try installing it by cloning the [source repository](https://github.com/Z3Prover/z3)
 
+## Code Description
+
+1. **Generator**
+
+   We can generate a random instance of the rush hour puzzle and store it in an input file as follows :-
+
+   ```bash
+   python3 generator.py <path to input file>
+   ```
+
+2. **SAT Solver**
+
+   In order to solve the puzzle, we first model the given puzzle as a Boolean Satisfiability Problem and then use z3 to solve that problem. This is done as follows :-
+
+   ```bash
+   python3 rush_hour.py <path to input file> > <path to output file>
+   ```
+
+3. **Simulator**
+
+   In order to check whether the SAT Solver has provided the correct solution, we verify it by playing out the moves suggested by the code. This is done with the help of simulator.
+
+   ```bash
+   python3 simulate.py <path to input file> <path to output file>
+   ```
 ## Resources
 
 [Z3Py Tutorial](https://ericpony.github.io/z3py-tutorial/guide-examples.htm)

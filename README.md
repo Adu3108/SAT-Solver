@@ -8,7 +8,9 @@ There are several cars parked in a large parking and a particular car wants to l
 
 ## z3 Installation
 
-We use z3, a high performance theorem prover to solve the Boolean Satisfiability Problem. Mac users can install using homebrew
+We use z3, a high performance theorem prover to solve the Boolean Satisfiability Problem. 
+
+Mac users can install using homebrew
 
 ```bash
 brew install z3

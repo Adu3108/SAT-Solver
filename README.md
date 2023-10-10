@@ -1,4 +1,4 @@
-# CS228
+# SAT Solver
 
 This repository contains the project done as a part of CS228: Logic for Computer Science at IIT Bombay in Spring 2022.
 

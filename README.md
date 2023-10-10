@@ -1,12 +1,6 @@
 # CS228
 ---
-This repository contains the project done as a part of CS228: Logic for CS at IIT Bombay in Spring 2022.
-
-## Team Members
-
-1. Advait Padhye
-2. Sarthak Mittal
-3. Kartik Gokhale
+This repository contains the project done as a part of CS228: Logic for Computer Science at IIT Bombay in Spring 2022.
 
 ## Problem Statement
 

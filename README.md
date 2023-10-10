@@ -1,5 +1,5 @@
 # CS228
----
+
 This repository contains the project done as a part of CS228: Logic for Computer Science at IIT Bombay in Spring 2022.
 
 ## Problem Statement
